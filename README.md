@@ -13,7 +13,7 @@ This is an python app for the ti-84 python edition (all versions)
 
 ## Installation
 
-- Download the app [here](https://github.com/iwannet/Projects/releases/download/algebra/Algebra.py)
+- Download the app [here](https://github.com/iwannet/Algebra-Py/blob/main/Algebra%20V3.5.py)
 
 ## Credits
 
